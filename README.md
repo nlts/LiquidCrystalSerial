@@ -26,5 +26,5 @@ Arduino シリアル接続LCD用ライブラリ（74HC595用）。シフトレ�
 
 4. Download Libaray(zip)
 
-   - [v1.0.0a](./LiquidCrystalSerial/releases/tag/v1.0.0a)
+   - [v1.0.0a](https://github.com/nlts/LiquidCrystalSerial/releases/tag/v1.0.0a)
  
