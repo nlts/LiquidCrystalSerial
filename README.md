@@ -1,7 +1,7 @@
 [README in English](./README-en.md)
 
 # LiquidCrystalSerial
-Arduino シリアル接続LCD用ライブラリ（74HC595用）。シフトレジスタ経由の3線接続用です。
+Arduino シリアル接続LCD用ライブラリ（74HC595用）。シフトレジスタ74HC595経由のキャラクタ液晶(16x2)の3線接続用ライブラリです。
 
 1. インスタンス生成: 
    >> LiquidCrystalSerial lcd(SH_CP, DS, ST_CP);//SH_CP->SCK/11, DS->SI/14, ST_CP->SCK/12
