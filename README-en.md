@@ -1,4 +1,4 @@
-[README in English](./README-en.md)
+[日本語版README](./README.md)
 
 # LiquidCrystalSerial
 A simple arduino Serial LCD Library using 74HC595.
