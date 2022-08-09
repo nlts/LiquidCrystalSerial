@@ -20,6 +20,7 @@ Arduino シリアル接続LCD用ライブラリ（74HC595用）。シフトレ�
 
 
 3. このプロジェクトについて:
-   >> original: https://github.com/AntorOfficial/LiquidCrystalSerial
-   >> メソッドの追加 :  LiquidCrystalSerial/10 ※シフトレジスタ(74HC595)ピンアサイン指定用
+   - original: https://github.com/AntorOfficial/LiquidCrystalSerial
+   
+   - メソッドの追加 :  LiquidCrystalSerial/10 ※シフトレジスタ(74HC595)ピンアサイン指定用
  
