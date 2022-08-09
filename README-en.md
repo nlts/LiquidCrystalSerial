@@ -16,7 +16,8 @@ A simple arduino Serial LCD Library using 74HC595.
    >> lcd.begin(16, 2);
 
 3. about this project:
-   >> original: https://github.com/AntorOfficial/LiquidCrystalSerial
-   >> add an instance method :  LiquidCrystalSerial/10 for pin assigns of 74HC595.
+   - original: https://github.com/AntorOfficial/LiquidCrystalSerial
+   
+   - add an instance method :  LiquidCrystalSerial/10 for pin assigns of 74HC595.
 
  
